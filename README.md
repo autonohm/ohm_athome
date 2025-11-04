@@ -1,6 +1,6 @@
 # ohm_athome
 Repository for RoboCup @home team of Nuremberg Tech.
-Our goal is to participate in the @home league of the Robocup Federation at the RoboCup 2026 in Nuremberg.
+Our goal is to participate in the @home league of the Robocup Federation at the RoboCup 2027 in Nuremberg.
 
 # Description 
 <!-- describe the parts of the Repository -->
