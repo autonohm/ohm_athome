@@ -1,6 +1,6 @@
 ---
 tags:
-Autor:
+Autor: "[[Lukas Fuchs]]"
 ---
 # Anwesenheit
 

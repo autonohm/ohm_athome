@@ -1,7 +1,7 @@
 ---
 tags:
-  - Meta
-Autor: Lukas Fuchs
+  - META
+Autor: "[[Lukas Fuchs]]"
 ---
 
 

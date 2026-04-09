@@ -1,7 +1,7 @@
 ---
 tags:
   - Meta
-Autor: Lukas Fuchs
+Autor: "[[Lukas Fuchs]]"
 ---
 # Präambel
 

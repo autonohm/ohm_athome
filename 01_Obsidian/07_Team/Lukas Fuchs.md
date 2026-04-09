@@ -1,3 +1,8 @@
+---
+tags:
+Autor: "[[Lukas Fuchs]]"
+---
+
 *Pfadfinder.Chorsänger.Existenzialist.Animefan.Fachschaftler.AGBLeser.5DSchachProfi.*
 >Bachelor Mechatronik TH Nürnberg.  
 >Im AutonOhm Team seit Ende 2023.  

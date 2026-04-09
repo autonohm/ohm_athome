@@ -1,7 +1,7 @@
 ---
 tags:
   - PETG
-Autor: Lukas Fuchs
+Autor: "[[Lukas Fuchs]]"
 ---
 # Hintergrund
 
