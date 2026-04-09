@@ -1,0 +1,49 @@
+# --- Betriebssysteme ---
+.DS_Store
+Thumbs.db
+
+# --- Obsidian ---
+# Wir ignorieren den Workspace-Status (offene Tabs etc.), 
+# aber behalten die Plugins (.obsidian/plugins)
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# --- C++ / ROS / Build ---
+build/
+install/
+log/
+.catkin_workspace
+.colcon/
+*.o
+*.so
+*.a
+
+# --- CAD / Hardware (Temporäre Dateien) ---
+# Für SolidWorks, Autodesk, etc.
+*~
+~$*
+*.tmp
+*.bak
+*.old
+*.log
+*.err
+# Verhindert riesige Export-Ordner
+/02_Hardware/**/Temp/
+
+# --- Elektronik (z.B. KiCad) ---
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+
+# --- Große Binärdateien (Optional) ---
+# Große Videos nur mit Git LFS, sonst wird das Repo so huuuuge
+# *.mp4
+# *.mov
