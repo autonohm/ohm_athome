@@ -6,12 +6,12 @@ With our industry partner Isento we strive to further research and development i
 
 # Description 
 
-We are a student led robotics team based in Nuremberg at the university of applied sciences. 
-As middleware we use ROS2, most of the software is written in C++ and Python including the Isento packages.
+We are a student led robotics team based in Nuremberg at the university of applied sciences.\ 
+As middleware we use ROS2, most of the software is written in C++ and Python.\
 
 ## Upper part
-We use the [pib4s advanced 3D printed robot](https://pib.rocks/de/pib-advanced/) as the upper part of our semi-humanoid robot.
-As software backend for the upper part we use the isento backend as a foundation for our own packages.
+We use the [pib4s advanced 3D printed robot](https://pib.rocks/de/pib-advanced/) as the upper part of our semi-humanoid robot.\
+As software backend for the upper part we use the isento backend as a foundation for our own packages.\
 
 ## Currently working on:
 
@@ -37,5 +37,5 @@ This repo consists of the following folders:
 # History 
 
 16/10/2025: Construction start for the pib 3D printable Robot as a starting point for the team.\
-24/03/2026: Official kick-off meeting for the newly formed @home team with 30 participants.\  
+24/03/2026: Official kick-off meeting for the newly formed @home team with 30 participants.\ 
 
