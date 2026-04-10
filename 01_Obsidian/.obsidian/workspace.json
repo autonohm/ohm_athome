@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Software/PiConnect.md",
+                "file": "03_Software/PiConnect Fernzugriff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PiConnect"
+              "title": "PiConnect Fernzugriff"
             }
           }
         ]
@@ -185,16 +185,16 @@
   },
   "active": "a548c8a48c25fb5f",
   "lastOpenFiles": [
-    "03_Software/Cerebra verwenden.md",
-    "03_Software/PiConnect.md",
     "03_Software/Motoren kalibrieren und zuweisen.md",
+    "03_Software/Cerebra verwenden.md",
+    "06_Protokolle/! Protokolle Meta.md",
+    "06_Protokolle/2026_03_24 - KickOff Roboterwettbewerbe.md",
+    "03_Software/PiConnect Fernzugriff.md",
     "07_Team/Jonathan Grunewald.md",
     "02_Mechanik/PETG Schweißen.md",
     "02_Mechanik/! Mechanik META.md",
     "03_Software/! Software META.md",
-    "06_Protokolle/2026_03_24 - KickOff Roboterwettbewerbe.md",
     "06_Protokolle/! YYYY_MM_DD - Protokoll Vorlage.md",
-    "06_Protokolle/! Protokolle Meta.md",
     "07_Team/Andreas Funk.md",
     "07_Team/Franz Schirmer.md",
     "07_Team/! Team META.md",
