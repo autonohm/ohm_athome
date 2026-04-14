@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Software/PiConnect Fernzugriff.md",
+                "file": "03_Software/Servo Bricklets initialisieren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PiConnect Fernzugriff"
+              "title": "Servo Bricklets initialisieren"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_Team/! Team META.md",
+                "file": "03_Software/Servo Bricklets initialisieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ! Team META"
+              "title": "Backlinks for Servo Bricklets initialisieren"
             }
           },
           {
@@ -186,26 +186,28 @@
   "active": "a548c8a48c25fb5f",
   "lastOpenFiles": [
     "03_Software/Motoren kalibrieren und zuweisen.md",
+    "03_Software/Servo Bricklets initialisieren.md",
     "03_Software/Cerebra verwenden.md",
-    "06_Protokolle/! Protokolle Meta.md",
-    "06_Protokolle/2026_03_24 - KickOff Roboterwettbewerbe.md",
-    "03_Software/PiConnect Fernzugriff.md",
+    "05_Archiv/Tabelle der Motorpositionen und IDs.md",
+    "06_Protokolle/! Protokolle META.md",
+    "05_Archiv/! Archiv META.md",
+    "03_Software/! Software META.md",
+    "07_Team/Team Archiv/John Doe.md",
+    "07_Team/! Team META.md",
+    "07_Team/Lukas Fuchs.md",
+    "07_Team/Franz Schirmer.md",
+    "07_Team/Andreas Funk.md",
     "07_Team/Jonathan Grunewald.md",
+    "03_Software/PiConnect Fernzugriff.md",
+    "06_Protokolle/2026_03_24 - KickOff Roboterwettbewerbe.md",
     "02_Mechanik/PETG Schweißen.md",
     "02_Mechanik/! Mechanik META.md",
-    "03_Software/! Software META.md",
     "06_Protokolle/! YYYY_MM_DD - Protokoll Vorlage.md",
-    "07_Team/Andreas Funk.md",
-    "07_Team/Franz Schirmer.md",
-    "07_Team/! Team META.md",
     "Andre.md",
     "07_Team",
     "06_Protokolle/Untitled.canvas",
     "04_Elektronik/! Elektronik META.md",
-    "05_Archiv/! Archiv META.md",
     "01_Obsidian/! Obsidian META.md",
-    "07_Team/Lukas Fuchs.md",
-    "07_Team/Team Archiv/John Doe.md",
     "07_Team/Team Archiv",
     "01_Obsidian/Team Steckbriefe",
     "06_Protokolle",
