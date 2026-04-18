@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Software/Servo Bricklets initialisieren.md",
-                "mode": "source",
+                "file": "02_Mechanik/PETG Schweißen.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Servo Bricklets initialisieren"
+              "title": "PETG Schweißen"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "a548c8a48c25fb5f",
   "lastOpenFiles": [
-    "03_Software/Motoren kalibrieren und zuweisen.md",
+    "02_Mechanik/Plattform.md",
     "03_Software/Servo Bricklets initialisieren.md",
+    "03_Software/Motoren kalibrieren und zuweisen.md",
     "03_Software/Cerebra verwenden.md",
     "05_Archiv/Tabelle der Motorpositionen und IDs.md",
     "06_Protokolle/! Protokolle META.md",
